@@ -63,5 +63,3 @@ I want to make this functional and generate QR codes based on user input links.
 
 - Frontend Mentor - [@dennielstephen](https://www.frontendmentor.io/profile/dennielstephen)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
