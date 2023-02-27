@@ -31,6 +31,7 @@ body::-webkit-scrollbar {
 
 .qr-container {
   display: flex;
+  min-height: 100vh;
   flex-direction: column;
   width: max(20%, 20rem);
   height: auto;
@@ -38,6 +39,7 @@ body::-webkit-scrollbar {
   margin: 0 auto;
   text-align: center;
   align-items: center;
+  justify-content: center;
   border-radius: 20px;
   margin-top: 9.37rem;
   margin-bottom: 9.37rem;
